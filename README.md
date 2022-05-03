@@ -9,7 +9,7 @@
 <hr></hr>
 
 
-Мои контакты:
+<h3>Мои контакты:</h3>
 
 <a href="https://t.me/pro_mises" rel="nofollow"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>
 
