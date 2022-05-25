@@ -2,12 +2,14 @@
 <p>Живу в солнечном Краснодаре 🌞</p>
 
 <h4>Мои увлечения:</h4> 
-<ol>
-<li> программирование: frontend & backend разработка;</li>
-<li> путешествия: начиная походом на кухню, заканчивая походом на высоту от 1500 м над уровнем моря;</li>
-<li> футбол: не смотреть, а играть;</li>
-<li> общение: душевные люди, которые помогают стать лучше.</li>
-</ol>
+
+ <span><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" height="165" /> <img src="https://media.giphy.com/media/ToMjGpxInCZSzD3V82s/giphy.gif" width="240" height="165"/> <img src="https://media.giphy.com/media/48QlZ4gdWCLa8/giphy.gif" width="240" height="165"/> 
+  <img src="https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif" width="240" height="165"/> </span>
+  <ul>
+  <li><p> программирование: frontend & backend разработка</p></li>
+  <li><p> путешествия: начиная походом на кухню, заканчивая походом на высоту от 1500 м над уровнем моря;</p></li>
+  <li><p>футбол: не смотреть, а играть;</p></li>
+  <li><p>общение: душевные люди, которые помогают стать лучше.</p></li>
 <hr></hr>
 
 
@@ -62,4 +64,11 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 <a href="https://www.heroku.com/" rel="nofollow"><img align="left" alt="Heroku" width="40" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" style="max-width: 100%;"></a>
   
 <a href="https://www.figma.com/" rel="nofollow"><img align="left" alt="Figma" width="40" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" style="max-width: 100%;"></a> 
+</p>
+<br>
+<br>
+
+<h2>Studying</h2>
+<p align="left">
+<a href="https://vuejs.org/" rel="nofollow"><img align="left" alt="Vue" width="40" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" style="max-width: 100%;"></a>
 </p>
