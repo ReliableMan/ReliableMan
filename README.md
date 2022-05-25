@@ -3,8 +3,8 @@
 
 <h4>Мои увлечения:</h4> 
 
- <span><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" height="100" /> <img src="https://media.giphy.com/media/ToMjGpxInCZSzD3V82s/giphy.gif" width="150" height="100"/> <img src="https://media.giphy.com/media/48QlZ4gdWCLa8/giphy.gif" width="150" height="100"/> 
-  <img src="https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif" width="150" height="100"/> </span>
+ <span><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="175" height="120" /> <img src="https://media.giphy.com/media/ToMjGpxInCZSzD3V82s/giphy.gif" width="175" height="120"/> <img src="https://media.giphy.com/media/48QlZ4gdWCLa8/giphy.gif" width="175" height="120"/> 
+  <img src="https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif" width="175" height="120"/> </span>
   <ul>
   <li><p> программирование: frontend & backend разработка</p></li>
   <li><p> путешествия: начиная походом на кухню, заканчивая походом на высоту от 1500 м над уровнем моря;</p></li>
