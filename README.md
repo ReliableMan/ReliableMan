@@ -1,4 +1,4 @@
-<strong>Привет 👋 Меня зовут Илья! Я - Fullstack developer</strong>
+<strong>Привет 👋 Меня зовут Илья! Я - Frontend developer</strong>
 <p>Живу в солнечном Краснодаре 🌞</p>
 
 <h4>Мои увлечения:</h4> 
