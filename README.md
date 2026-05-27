@@ -1,16 +1,3 @@
-<strong>Привет 👋 Меня зовут Илья! Я - Frontend developer</strong>
-
-<h4>Мои увлечения:</h4> 
-
- <span><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="185" height="135" /> <img src="https://media.giphy.com/media/ToMjGpxInCZSzD3V82s/giphy.gif" width="185" height="135"/> <img src="https://media.giphy.com/media/48QlZ4gdWCLa8/giphy.gif" width="185" height="135"/> 
-  <img src="https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif" width="185" height="135"/> </span>
-  <ul>
-  <li><p> программирование: frontend & backend разработка</p></li>
-  <li><p> путешествия: начиная походом на кухню, заканчивая походом на высоту от 1500 м над уровнем моря</p></li>
-  <li><p>футбол: не смотреть, а играть</p></li>
-  <li><p>общение: душевные люди, которые помогают стать лучше</p></li>
-<hr></hr>
-
 <h2>Frontend Skills</h2>
 <p align="left"> 
  
